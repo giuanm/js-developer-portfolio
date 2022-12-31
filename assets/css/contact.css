@@ -1,0 +1,15 @@
+.contacts{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@media only screen and (min-width: 768px) {
+    .contacts {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}

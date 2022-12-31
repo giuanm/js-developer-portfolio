@@ -1,0 +1,102 @@
+{
+  "intro1": "Olá",
+  "intro2": "eu sou",
+  "name": "Giuan Ferreira",
+  "photo": "https://avatars.githubusercontent.com/u/76171709?v=4",
+  "job": "Dev Front-end",
+  "location": "Dublin - IE",
+  "phone": "+55 85 98207-2650",
+  "email": "giuanm@live.com",
+  "graduation1": "Estatística e Matemática Aplicada - UFC",
+  "graduation2": "Análise e Desenvolvimento de Sistemas - UNINASSAU",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "NodeJS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Mysql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "language": "Idiomas",
+  "languages": [
+    "Português BR (nativo)",
+    "Inglês (A2)",
+    "Espanhol (A1)"
+  ],
+  "descPortfolio": "Portfólio",
+  "portfolio": [
+    {
+      "name": "Projeto realizado no bootcamp da DIO para a criação de uma Pokedex",
+      "url": "https://github.com/giuanm/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Projeto realizado no bootcamp da DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/giuanm/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "Projeto realizado no bootcamp da DIO para a criação de fonte de pesquisa de reposiórios no GitHub",
+      "url": "https://github.com/giuanm/Wiki_Git.git",
+      "github": true
+    }
+  ],
+  "experience": "Experiência Profissional",
+  "professionalExperience": [
+    {
+      "name": "Coordenador de Planejamento / Indra - Minsait",
+      "period": "08/2015 - 01/2023",
+      "description": "Foi um prazer implantar projetos, trabalhar e desenvolver diversos analistas para ter um senso crítico e encontrar soluções."
+    },
+    {
+      "name": "Coordenador de Planejamento / Plansul",
+      "period": "01/2015 - 07/2015",
+      "description": "Aqui tive minha primeira opotunidade como gestor, trabalhar e desenvolver a equipe de analistas para ter um senso crítico e encontrar soluções."
+    },
+    {
+      "name": "Analista de Planejamento / Indra - Minsait",
+      "period": "05/2011 - 10/2014",
+      "description": "Nesse projeto iniciei minha jornada como analista de planejamento, colocando em prática alguns conhecimentos de Estatística e aperfeiçoando minhas análises de dados."
+    }
+  ],
+  "contactForm": "Contato",
+  "contact": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/giuan/",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/giuanm",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+    }
+  ]
+}
