@@ -53,12 +53,12 @@
   "descPortfolio": "Portfólio",
   "portfolio": [
     {
-      "name": "Projeto realizado no bootcamp da DIO para a criação de uma Pokedex",
+      "name": "Projeto realizado no bootcamp da DIO para a criação de uma Pokedex consumindo uma API para a consulta das informações dos pokemons",
       "url": "https://github.com/giuanm/Pokedex",
       "github": true
     },
     {
-      "name": "Projeto realizado no bootcamp da DIO para a criação de uma página de portfolio",
+      "name": "Projeto realizado no bootcamp da DIO para a criação de uma página de portfolio e feito deploy por meio do GitHub",
       "url": "https://github.com/giuanm/js-developer-portfolio",
       "github": true
     },
