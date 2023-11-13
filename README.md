@@ -1,2 +1,2 @@
 # js-developer-portfolio
-Projeto realizado no bootcamp da DIO, consiste na criação de um portfólio profissional.
+Esta página consiste na criação de um portfólio profissional e apresentar minhas habilidades e projetos.
