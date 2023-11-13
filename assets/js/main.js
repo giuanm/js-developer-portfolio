@@ -123,14 +123,14 @@ async function profi() {
     updateContact(profileData)
 }
 
-const flagBr = document.getElementById('brasil')
+const flagBr = document.getElementById('flag1')
 flagBr.addEventListener('click', (e)=> {
     funFetch = fetchProfileData();
     profi();
 })
 
 
-const flagIe = document.getElementById('irlanda')
+const flagIe = document.getElementById('flag2')
 flagIe.addEventListener('click', (e)=> {
     funFetch = fetchProfileDataIe();
     profi();
