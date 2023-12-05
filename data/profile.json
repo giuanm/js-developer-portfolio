@@ -10,7 +10,7 @@
   "graduation1": "Estatística e Matemática Aplicada - UFC",
   "graduation2": "Análise e Desenvolvimento de Sistemas - UNINASSAU",
   "skills": {
-    "id":0,"hardSkills": [
+    "id": 0, "hardSkills": [
       {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
@@ -46,9 +46,9 @@
   },
   "language": "Idiomas",
   "languages": [
-    "id":0, "Português BR (nativo)",
-    "id":1, "Inglês (B1)",
-    "id":2, "Espanhol (A1)"
+    "Português BR (nativo)",
+    "Inglês (B1)",
+    "Espanhol (A1)"
   ],
   "descPortfolio": "Portfólio",
   "portfolio": [
