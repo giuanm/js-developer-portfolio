@@ -10,7 +10,7 @@
   "graduation1": "Estatística e Matemática Aplicada - UFC",
   "graduation2": "Análise e Desenvolvimento de Sistemas - UNINASSAU",
   "skills": {
-    "hardSkills": [
+    "id":0,"hardSkills": [
       {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
@@ -35,7 +35,7 @@
         "name": "Mysql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       }
-    ],
+    ], "id": 1,
     "softSkills": [
       "Empatia",
       "Liderança",
@@ -46,9 +46,9 @@
   },
   "language": "Idiomas",
   "languages": [
-    "Português BR (nativo)",
-    "Inglês (B1)",
-    "Espanhol (A1)"
+    "id":0, "Português BR (nativo)",
+    "id":1, "Inglês (B1)",
+    "id":2, "Espanhol (A1)"
   ],
   "descPortfolio": "Portfólio",
   "portfolio": [
