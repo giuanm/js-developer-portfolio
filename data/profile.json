@@ -9,8 +9,7 @@
   "email": "giuanm@live.com",
   "graduation1": "Estatística e Matemática Aplicada - UFC",
   "graduation2": "Análise e Desenvolvimento de Sistemas - UNINASSAU",
-  "skills": {
-    "id": 0, "hardSkills": [
+  "hardSkills": [
       {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
@@ -35,15 +34,14 @@
         "name": "Mysql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       }
-    ], "id": 1,
-    "softSkills": [
+    ],
+  "softSkills": [
       "Empatia",
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
-    ]
-  },
+  ],
   "language": "Idiomas",
   "languages": [
     "Português BR (nativo)",
