@@ -147,5 +147,107 @@
       "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
     }
   ],
-  "targetingMsg": "What would you like to start with?"
+  "targetingMsg": "What would you like to start with?",
+  "post_personal":{
+  "general": [
+    {
+      "id": "1",
+      "name": "Sobre mim",
+      "media": "https://avatars.githubusercontent.com/u/76171709?v=4",
+      "type_media": "img",
+      "URLmedia": "https://www.linkedin.com/in/giuan/",
+      "description": ""Life explorer in search of new experiences and learning. Passionate about ballroom dance (tango, zouk, forró, and bachata), cooking, traveling, making new friends, and dedicated to always learning and discovering something new. Currently living in Malta until February 2024. Graduated in Statistics and Applied Mathematics, Analysis and Systems Development. 2023 was the year I took to live a new phase, traveling to many places, learning English, meeting many people, and being able to share experiences/culture. I believe in the power of positivity and continuous personal growth, love to put into practice what I learn from Neuro-Linguistic Programming (NLP). Always in search of challenges and opportunities to learn and evolve."
+    },
+    {
+      "id": "2",
+      "name": "Advocate - INFJ-A / INFJ-T",
+      "media": "https://raw.githubusercontent.com/giuanm/new_portfolio/28cdad630849f3592847e459f3116ad8f025f1df/src/assets/icons/avatarPersonality.svg",
+      "type_media": "img",
+      "URLmedia": "https://www.16personalities.com/br/resultados/infj-a/x/1s9j25ype?utm_source=results-assertive-advocate&utm_medium=email&utm_campaign=br&utm_content=view-results",
+      "description": "dvocates (INFJs) may be the rarest personality type of all, but they certainly leave their mark on the world. Idealistic and principled, they aren’t content to coast through life – they want to stand up and make a difference. For Advocate personalities, success doesn’t come from money or status but from seeking fulfillment, helping others, and being a force for good in the world. While they have lofty goals and ambitions, Advocates shouldn’t be mistaken for idle dreamers. People with this personality type care about integrity, and they’re rarely satisfied until they’ve done what they know to be right. Conscientious to the core, they move through life with a clear sense of their values, and they aim never to lose sight of what truly matters – not according to other people or society at large, but according to their own wisdom and intuition."
+    }
+  ],
+    "dance":[
+    {
+      "id": "3",
+      "name": "Dance",
+      "media": "https://raw.githubusercontent.com/giuanm/new_portfolio/28cdad630849f3592847e459f3116ad8f025f1df/src/assets/icons/danca.jpeg",
+      "type_media": "img",
+      "URLmedia": "One of my main hobbies is dancing. I love ballroom dancing, my favorites are Tango, Forró, Bachata and Zouk. Since I attended a demonstration class in 2010, I was fascinated and couldn't resist, despite never having danced before, I was very clumsy and couldn't even begin a simpler step. I dedicated myself until I was able to keep up with the class and from then on I got to know many other dances, starting with Forró, Zouk and Bachata. Then I moved on to Bolero, Salsa, Samba, Tango, Soltinho, West Coast Swing (WCS), Roda de Cassino, Merengue and Kizomba. There were many years and friends made through dancing. Today I still continue, not as often as I used to, but whenever I see an opportunity to dance with my four favorites."
+    },
+    {
+      "id": "4",
+      "name": "Forró",
+      "media": "https://www.youtube.com/embed/mYa03J9MfqA?si=Kt_oR5Tchq7vsU0G",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/mYa03J9MfqA?si=Kt_oR5Tchq7vsU0G",
+      "description": "Forró is a party originating in the state of Pernambuco and widespread in the Northeast Region of Brazil, very popular and common, especially during June festivals. The name of the forró party is used to name different musical genres such as xote, baião, 'arrasta-pé' and xaxado, so those who do not know their stories confuse them with a single genre. The songs are traditionally performed by three instrumentals such as accordion (Sanfona), zabumba and triangle. Forró is also one of the musical genres of the forró party, which was created by Luiz Gonzaga in 1958. The xote dance (two for there and two for here) started to accompany the music of this new genre and was called forró dance."
+    },
+    {
+      "id": "5",
+      "name": "Tango",
+      "media": "https://www.youtube.com/embed/AjOxBS1Gje4?si=qAAFdQQqvgEBENNF",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/AjOxBS1Gje4?si=qAAFdQQqvgEBENNF",
+      "description": "Tango is a partner dance and social dance that originated in the 1880s along the Río de la Plata, the natural border between Argentina and Uruguay. The tango was born in the impoverished port areas of these countries from a combination of Argentine Milonga, Spanish-Cuban Habanera, and Uruguayan Candombe celebrations. It was frequently practiced in the brothels and bars of ports, where business owners employed bands to entertain their patrons. It then spread to the rest of the world. Many variations of this dance currently exist around the world. On August 31, 2009, UNESCO approved a joint proposal by Argentina and Uruguay to include the tango in the UNESCO Intangible Cultural Heritage Lists."
+    },
+    {
+      "id": "12",
+      "name": "Zouk",
+      "media": "https://www.youtube.com/embed/Iik2HgGkf3I?si=DLOTdjE4uwQses_f",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/Iik2HgGkf3I?si=DLOTdjE4uwQses_f",
+      "description": "Brazilian zouk evolved from the partner dance known as lambada. As the Lambada music genre fell out of fashion, Lambada dancers turned to Caribbean zouk (from the Francophone, Caribbean Islands) as their preferred music. It was this transition that gave rise to the dance known as Brazilian zouk. The term Brazilian zouk was adopted to distinguish the dance style from the Caribbean zouk musical genre. Nowadays the term zouk is commonly used to refer to the Brazilian zouk dance style."
+    },
+    {
+      "id": "6",
+      "name": "Bachata",
+      "media": "https://www.youtube.com/embed/mYEp8BmXb5o?si=w6FxTpA9SfZJ_EqP",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/mYEp8BmXb5o?si=w6FxTpA9SfZJ_EqP",
+      "description": "Bachata, also known as seresta, is a musical genre and dance that originated in the Dominican Republic in the 1960s. Considered a hybrid of bolero (above all, rhythmic bolero) with other musical influences such as cha-chá-chá and tango. The Latin American rhythm bolero in the period from 1930 to 1950 was a pleasure for the Dominican people and, with this influence, bachata was born in the late 1950s, but only in the 1980s was it recognized and launched worldwide in order to increase the tourism on the island."
+    }
+  ],
+  "travel": [
+    {
+      "id": "7",
+      "name": "Faro - Portugal",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/Faro.21463797aa1219660998.jpg",
+      "type_media": "img",
+      "URLmedia": "https://drive.google.com/drive/folders/1JYx4OghrYD_T8NlEdE642PQuTT1TOON5?usp=drive_link",
+      "description": "Faro is a municipality, the southernmost city and capital of the district of the same name, in the Algarve region of southern Portugal. With an estimated population of 60,995 inhabitants in 2019 (with 39,733 inhabitants in the city proper, making it the biggest city and second most populous municipality in the Algarve (after Loulé) and one of the biggest in Southern Portugal), the municipality covers an area of about 202.57 km2."
+    },
+    {
+      "id": "8",
+      "name": "London",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/london.5f037e172ecf74436a38.jpg",
+      "type_media": "img",
+      "URLmedia": "https://drive.google.com/drive/folders/1twBaJEcHoDDe7rs9_pHagPqlZnPnahEQ?usp=drive_link",
+      "description": "London is the capital of England and the United Kingdom. For two millennia, it was a large town and its history dates back to its foundation by the Romans, when it was named Londínio. London is an important global city (alongside New York, Tokyo and Paris) and is one of the largest, most important and influential financial centers in the world. Central London is home to more than half of the UK's top 100 companies (the FTSE 100 index) and more than 100 of Europe's top 500. London has a strong influence on politics, finance, education, entertainment, media, fashion, arts and culture in general, which contributes to its global position. It is an important tourist destination for national and foreign visitors. London hosted the 1908, 1948 and 2012 Summer Olympics."
+    },
+    {
+      "id": "9",
+      "name": "Lisbon",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/Lisbon.63a0e06355412ac99995.jpg",
+      "type_media": "img",
+      "URLmedia": "https://drive.google.com/drive/folders/1D7EuNiGH8fSLiqvtP-qEN-7JSecQdS19?usp=drive_link",
+      "description": "Lisbon is the capital and largest city of Portugal, with an estimated population of 548,703 within its administrative limits in an area of 100 km2. Lisbon is mainland Europe's westernmost capital city (second overall after Reykjavik) and the only one along the Atlantic coast, the others (Reykjavik and Dublin) being on islands. Lisbon is one of the oldest cities in the world and the second-oldest European capital city (after Athens), predating other modern European capitals by centuries. After the fall of the Roman Empire, it was ruled by a series of Germanic tribes from the 5th century, most notably the Visigoths. Later it was captured by the Moors in the 8th century. In 1147 Afonso Henriques conquered the city and in 1255 it became Portugal's capital, replacing Coimbra. It has since been the political, economic, and cultural centre of the country."
+    },
+    {
+      "id": "10",
+      "name": "Malta",
+      "media": "https://www.youtube.com/embed/4fTUSK0R_T8?si=LnO1ixupoy95E4WB",
+      "type_media": "video",
+      "URLmedia": "https://www.google.com/search?sca_esv=602020555&sxsrf=ACQVn0_HQ0wz0H_N-17bXtIRM69BL6m0Jg:1706376371971&q=malta&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjBiYSsi_6DAxXFQfEDHS7KBbMQ0pQJegQIDRAB&biw=1536&bih=730&dpr=1.25",
+      "description": "Malta, officially the Republic of Malta, is an island country located in Southern Europe, whose territory occupies the Maltese Islands, an archipelago located in the Mediterranean Sea, 93 km south of the island of Sicily (Italy) and 288 km northeast of Tunisia ( Africa), 1,826 km east of Gibraltar and 1,510 km west of Alexandria. Malta covers a land area of 316 km², making it one of the smallest countries in Europe, and also having the highest population density on the continent. Its capital is Valletta and the largest city is Birkirkara. Maltese is the national language and English is the co-official language. Due to historical events that took place over the years, Malta became an Anglo-Latin country, due to the main influences of the Roman and later British Empires, although there are smaller influences left by other kingdoms that passed through Malta, such as Greece and the Islamic and Byzantine Empires and later the presence of the Spanish and French. Malta is one of the most strategic countries in Europe and for NATO, like Italy, Portugal, Turkey and others. Malta can also be considered an Anglo-Latin country due to some similarities between Maltese and other Latin languages and even Latin itself, and also due to the use of English by some citizens, due to the influence left by the British."
+    },
+    {
+      "id": "11",
+      "name": "Dublin",
+      "media": "https://www.youtube.com/embed/wIQsl64KgNI?si=nN8RdpZBzdwrvOoG",
+      "type_media": "video",
+      "URLmedia": "https://drive.google.com/drive/folders/1kL796hijfGCBkXMWNbXh7IQjocpF4rKI?usp=drive_link",
+      "description": "Dublin is the capital and largest city in Ireland. The English name derives from the Irish word Dubhlinn, meaning Black Lake. It has a population of 592 thousand inhabitants in the city, and its metropolitan area has 1,263,219 inhabitants. Founded as a Viking settlement, it was the center of the Kingdom of Dublin and became the Island's main city after the Norman invasion. The city grew rapidly during the 17th century; It became at the time the second largest city in the British Empire and the fifth largest in Europe. Dublin entered a period of stagnation following the Act of Union 1800, but remained the economic center of the Island. After the Partition of Ireland in 1922, it became the capital of the Irish Free State, and later, of the Republic of Ireland."
+    }
+  ]
 }
