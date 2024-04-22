@@ -152,7 +152,7 @@
   "general": [
     {
       "id": "1",
-      "name": "Sobre mim",
+      "name": "About me",
       "media": "https://avatars.githubusercontent.com/u/76171709?v=4",
       "type_media": "img",
       "URLmedia": "https://www.linkedin.com/in/giuan/",
@@ -173,7 +173,8 @@
       "name": "Dance",
       "media": "https://raw.githubusercontent.com/giuanm/new_portfolio/28cdad630849f3592847e459f3116ad8f025f1df/src/assets/icons/danca.jpeg",
       "type_media": "img",
-      "URLmedia": "One of my main hobbies is dancing. I love ballroom dancing, my favorites are Tango, Forró, Bachata and Zouk. Since I attended a demonstration class in 2010, I was fascinated and couldn't resist, despite never having danced before, I was very clumsy and couldn't even begin a simpler step. I dedicated myself until I was able to keep up with the class and from then on I got to know many other dances, starting with Forró, Zouk and Bachata. Then I moved on to Bolero, Salsa, Samba, Tango, Soltinho, West Coast Swing (WCS), Roda de Cassino, Merengue and Kizomba. There were many years and friends made through dancing. Today I still continue, not as often as I used to, but whenever I see an opportunity to dance with my four favorites."
+      "URLmedia": "#",
+      "description": "One of my main hobbies is dancing. I love ballroom dancing, my favorites are Tango, Forró, Bachata and Zouk. Since I attended a demonstration class in 2010, I was fascinated and couldn't resist, despite never having danced before, I was very clumsy and couldn't even begin a simpler step. I dedicated myself until I was able to keep up with the class and from then on I got to know many other dances, starting with Forró, Zouk and Bachata. Then I moved on to Bolero, Salsa, Samba, Tango, Soltinho, West Coast Swing (WCS), Roda de Cassino, Merengue and Kizomba. There were many years and friends made through dancing. Today I still continue, not as often as I used to, but whenever I see an opportunity to dance with my four favorites."
     },
     {
       "id": "4",
