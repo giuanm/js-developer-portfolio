@@ -10,11 +10,6 @@
   "graduation1": "Statistics and Applied Mathematics - UFC",
   "graduation2": "Analysis and Systems Development - UNINASSAU",
   "salutation": "Hello! Just for personalization purposes on the following pages, could you identify yourself?",
-  "aboutme": "Life explorer in search of new experiences and learning. Passionate about ballroom dance (tango, zouk, forró, and bachata), cooking, traveling, making new friends, and dedicated to always learning and discovering something new. Currently living in Malta until February 2024. Graduated in Statistics and Applied Mathematics, Analysis and Systems Development. 2023 was the year I took to live a new phase, traveling to many places, learning English, meeting many people, and being able to share experiences/culture. I believe in the power of positivity and continuous personal growth, love to put into practice what I learn from Neuro-Linguistic Programming (NLP). Always in search of challenges and opportunities to learn and evolve.",
-  "aboutmeProfessional": "Hello, I'm Giuan, a professional passionate about technology and innovation, more technicaly in front-end and back-end development. Degrees in Systems Analysis and Statistics, with a career path developed in coordinating BPO projects in large companies in the energy (Enel) and banking (Caixa Econômica Federal) sectors. Twelve years of experience in the area of planning traffic/service systems, responsible for coordinating, leading, and monitoring projects, as well as developing new products and improving processes and services. Monitoring and economic management of projects, with a broad interface with the business and development (IT) areas. Practice in relationships with multiple stakeholders, acting as PO and project coordinator. Experience as a web developer in independent website construction projects, with experience in JavaScript, Python, and React. International experience in study and work exchanges in Ireland and Malta.",
-  "desPersonality1": "Advocates (INFJs) may be the rarest personality type of all, but they certainly leave their mark on the world. Idealistic and principled, they aren’t content to coast through life – they want to stand up and make a difference. For Advocate personalities, success doesn’t come from money or status but from seeking fulfillment, helping others, and being a force for good in the world.",
-  "desPersonality2": "While they have lofty goals and ambitions, Advocates shouldn’t be mistaken for idle dreamers. People with this personality type care about integrity, and they’re rarely satisfied until they’ve done what they know to be right. Conscientious to the core, they move through life with a clear sense of their values, and they aim never to lose sight of what truly matters – not according to other people or society at large, but according to their own wisdom and intuition.",
-  "typePersonality": "Advocate - INFJ-A / INFJ-T",
   "nameCamp": "Name",
   "company": "Company",
   "professional": "Professional",
@@ -24,31 +19,6 @@
   "projectDesc": "In recent years I have been developing some projects and publishing them on my GitHub. Below I will make some of these projects and their links available so that they can be viewed together with their GitHub repositories. If you have any feedback, please send it to me through one of my contacts available here on the page.",
   "experienceCamp": "Experience",
   "personality": "Personality",
-  "nlp": "NLP - Neurolinguistic Programming",
-  "nlpD1": "Neurolinguistic Programming (NLP) is an approach that explores the relationship between neurological processes (neuro-), language (linguistics) and behavioral patterns learned through experience (programming). NLP aims to understand how people structure their subjective experience of the world and, based on this, develop techniques to improve communication, behavior and personal performance.",
-  "nlpD2": "Examples of NLP benefits include:",
-  "nlpE1": "Improved Communication: NLP offers tools to improve interpersonal communication, helping people understand and use linguistic patterns more effectively.",
-  "nlpE2": "Emotion Management: NLP helps understand and manage emotions, allowing people to develop strategies to deal with challenging situations more effectively.",
-  "nlpE3": "Effective Goal Setting: NLP provides techniques to help set clear goals and develop strategies to achieve them.",
-  "nlpE4": "Effective Negotiation: NLP techniques are often applied in negotiation contexts to improve persuasion and influence, increasing effectiveness in business interactions.",
-  "nlpE5": "Improving Professional Performance: NLP is applied in professional contexts to optimize the performance of leaders, teams and individuals, promoting a more productive work environment.",
-  "hobbies": "Hobbies",
-  "danc": "Dance",
-  "danca": "One of my main hobbies is dancing. I love ballroom dancing, my favorites are Tango, Forró, Bachata and Zouk. Since I attended a demonstration class in 2010, I was fascinated and couldn't resist, despite never having danced before, I was very clumsy and couldn't even begin a simpler step. I dedicated myself until I was able to keep up with the class and from then on I got to know many other dances, starting with Forró, Zouk and Bachata. Then I moved on to Bolero, Salsa, Samba, Tango, Soltinho, West Coast Swing (WCS), Roda de Cassino, Merengue and Kizomba. There were many years and friends made through dancing. Today I still continue, not as often as I used to, but whenever I see an opportunity to dance with my four favorites.",
-  "tango": "Tango is a partner dance and social dance that originated in the 1880s along the Río de la Plata, the natural border between Argentina and Uruguay. The tango was born in the impoverished port areas of these countries from a combination of Argentine Milonga, Spanish-Cuban Habanera, and Uruguayan Candombe celebrations. It was frequently practiced in the brothels and bars of ports, where business owners employed bands to entertain their patrons. It then spread to the rest of the world. Many variations of this dance currently exist around the world. On August 31, 2009, UNESCO approved a joint proposal by Argentina and Uruguay to include the tango in the UNESCO Intangible Cultural Heritage Lists.",
-  "zouk": "Brazilian zouk evolved from the partner dance known as lambada. As the Lambada music genre fell out of fashion, Lambada dancers turned to Caribbean zouk (from the Francophone, Caribbean Islands) as their preferred music. It was this transition that gave rise to the dance known as Brazilian zouk. The term Brazilian zouk was adopted to distinguish the dance style from the Caribbean zouk musical genre. Nowadays the term zouk is commonly used to refer to the Brazilian zouk dance style.",
-  "forro": "Forró is a party originating in the state of Pernambuco and widespread in the Northeast Region of Brazil, very popular and common, especially during June festivals. The name of the forró party is used to name different musical genres such as xote, baião, 'arrasta-pé' and xaxado, so those who do not know their stories confuse them with a single genre. The songs are traditionally performed by three instrumentals such as accordion (Sanfona), zabumba and triangle. Forró is also one of the musical genres of the forró party, which was created by Luiz Gonzaga in 1958. The xote dance (two for there and two for here) started to accompany the music of this new genre and was called forró dance.",
-  "bachata": "Bachata, also known as seresta, is a musical genre and dance that originated in the Dominican Republic in the 1960s. Considered a hybrid of bolero (above all, rhythmic bolero) with other musical influences such as cha-chá-chá and tango. The Latin American rhythm bolero in the period from 1930 to 1950 was a pleasure for the Dominican people and, with this influence, bachata was born in the late 1950s, but only in the 1980s was it recognized and launched worldwide in order to increase the tourism on the island.",
-  "faroPT": "Faro is a municipality, the southernmost city and capital of the district of the same name, in the Algarve region of southern Portugal. With an estimated population of 60,995 inhabitants in 2019 (with 39,733 inhabitants in the city proper, making it the biggest city and second most populous municipality in the Algarve (after Loulé) and one of the biggest in Southern Portugal), the municipality covers an area of about 202.57 km2.",
-  "lisbonPT": "Lisbon is the capital and largest city of Portugal, with an estimated population of 548,703 within its administrative limits in an area of 100 km2. Lisbon is mainland Europe's westernmost capital city (second overall after Reykjavik) and the only one along the Atlantic coast, the others (Reykjavik and Dublin) being on islands. Lisbon is one of the oldest cities in the world and the second-oldest European capital city (after Athens), predating other modern European capitals by centuries. After the fall of the Roman Empire, it was ruled by a series of Germanic tribes from the 5th century, most notably the Visigoths. Later it was captured by the Moors in the 8th century. In 1147 Afonso Henriques conquered the city and in 1255 it became Portugal's capital, replacing Coimbra. It has since been the political, economic, and cultural centre of the country.",
-  "lisbon": "Lisbon",
-  "london": "London",
-  "londonDesc": "London is the capital of England and the United Kingdom. For two millennia, it was a large town and its history dates back to its foundation by the Romans, when it was named Londínio. London is an important global city (alongside New York, Tokyo and Paris) and is one of the largest, most important and influential financial centers in the world. Central London is home to more than half of the UK's top 100 companies (the FTSE 100 index) and more than 100 of Europe's top 500. London has a strong influence on politics, finance, education, entertainment, media, fashion, arts and culture in general, which contributes to its global position. It is an important tourist destination for national and foreign visitors. London hosted the 1908, 1948 and 2012 Summer Olympics.",
-  "dublin": "Dublin is the capital and largest city in Ireland. The English name derives from the Irish word Dubhlinn, meaning Black Lake. It has a population of 592 thousand inhabitants in the city, and its metropolitan area has 1,263,219 inhabitants. Founded as a Viking settlement, it was the center of the Kingdom of Dublin and became the Island's main city after the Norman invasion. The city grew rapidly during the 17th century; It became at the time the second largest city in the British Empire and the fifth largest in Europe. Dublin entered a period of stagnation following the Act of Union 1800, but remained the economic center of the Island. After the Partition of Ireland in 1922, it became the capital of the Irish Free State, and later, of the Republic of Ireland.",
-  "malta": "Malta, officially the Republic of Malta, is an island country located in Southern Europe, whose territory occupies the Maltese Islands, an archipelago located in the Mediterranean Sea, 93 km south of the island of Sicily (Italy) and 288 km northeast of Tunisia ( Africa), 1,826 km east of Gibraltar and 1,510 km west of Alexandria. Malta covers a land area of 316 km², making it one of the smallest countries in Europe, and also having the highest population density on the continent. Its capital is Valletta and the largest city is Birkirkara. Maltese is the national language and English is the co-official language. Due to historical events that took place over the years, Malta became an Anglo-Latin country, due to the main influences of the Roman and later British Empires, although there are smaller influences left by other kingdoms that passed through Malta, such as Greece and the Islamic and Byzantine Empires and later the presence of the Spanish and French. Malta is one of the most strategic countries in Europe and for NATO, like Italy, Portugal, Turkey and others. Malta can also be considered an Anglo-Latin country due to some similarities between Maltese and other Latin languages and even Latin itself, and also due to the use of English by some citizens, due to the influence left by the British.",
-  "pokedexDesc": "What's your favorite Pokemon? Now you can search for it and find out its main information here on this page. There are more than 200, if you can't find it, you can call me and I'll check where it is, I'm sure it will be a good result 😂",
-  "ToDoDesc": "Faro is a municipality, the southernmost city and capital of the district of the same name, in the Algarve region of southern Portugal. With an estimated population of 60,995 inhabitants in 2019 (with 39,733 inhabitants in the city proper, making it the biggest city and second most populous municipality in the Algarve (after Loulé) and one of the biggest in Southern Portugal), the municipality covers an area of about 202.57 km2.",
-  "secretDesc": "Faro is a municipality, the southernmost city and capital of the district of the same name, in the Algarve region of southern Portugal. With an estimated population of 60,995 inhabitants in 2019 (with 39,733 inhabitants in the city proper, making it the biggest city and second most populous municipality in the Algarve (after Loulé) and one of the biggest in Southern Portugal), the municipality covers an area of about 202.57 km2.",
   "skills": {
     "hardSkills": [
       {
@@ -95,7 +65,7 @@
   "language": "Languages",
   "languages": [
     "Portuguese BR (nativo)",
-    "English (B1)",
+    "English (B2)",
     "Spanish (A1)"
   ],
   "descPortfolio": "Portfolio",
@@ -249,6 +219,62 @@
       "type_media": "video",
       "URLmedia": "https://drive.google.com/drive/folders/1kL796hijfGCBkXMWNbXh7IQjocpF4rKI?usp=drive_link",
       "description": "Dublin is the capital and largest city in Ireland. The English name derives from the Irish word Dubhlinn, meaning Black Lake. It has a population of 592 thousand inhabitants in the city, and its metropolitan area has 1,263,219 inhabitants. Founded as a Viking settlement, it was the center of the Kingdom of Dublin and became the Island's main city after the Norman invasion. The city grew rapidly during the 17th century; It became at the time the second largest city in the British Empire and the fifth largest in Europe. Dublin entered a period of stagnation following the Act of Union 1800, but remained the economic center of the Island. After the Partition of Ireland in 1922, it became the capital of the Irish Free State, and later, of the Republic of Ireland."
+    }
+  ]
+},
+"post_professional":{
+  "general": [
+    {
+      "id": "1",
+      "name": "About me",
+      "media": "https://www.linkedin.com/in/giuan",
+      "type_media": "img",
+      "URLmedia": "https://avatars.githubusercontent.com/u/76171709?v=4",
+      "description": "Hello, I'm Giuan, a professional passionate about technology and innovation, more technicaly in front-end and back-end development. Degrees in Systems Analysis and Statistics, with a career path developed in coordinating BPO projects in large companies in the energy (Enel) and banking (Caixa Econômica Federal) sectors. Twelve years of experience in the area of planning traffic/service systems, responsible for coordinating, leading, and monitoring projects, as well as developing new products and improving processes and services. Monitoring and economic management of projects, with a broad interface with the business and development (IT) areas. Practice in relationships with multiple stakeholders, acting as PO and project coordinator. Experience as a web developer in independent website construction projects, with experience in JavaScript, Python, and React. International experience in study and work exchanges in Ireland and Malta."
+    }
+  ],
+    "project":[
+    {
+      "id": "2",
+      "name": "Projects",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/Project.0a1f6e469103eeab5a73.jpg",
+      "type_media": "img",
+      "URLmedia": "https://github.com/giuanm",
+      "description": "In recent years I have been developing some projects and publishing them on my GitHub. Below I will make some of these projects and their links available so that they can be viewed together with their GitHub repositories. If you have any feedback, please send it to me through one of my contacts available here on the page."
+    },
+    {
+      "id": "3",
+      "name": "Pokedex",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/Pokedex.d4ea1bac926250649efa.jpg",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/Pokedex/",
+      "description": "What's your favorite Pokemon? Now you can search for it and find out its main information here on this page. There are more than 200, if you can't find it, you can call me and I'll check where it is, I'm sure it will be a good result 😂"
+    },
+    {
+      "id": "4",
+      "name": "Secret Words",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/SecretWords.54dac19139270040c9ac.jpg",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/Secret_Words/",
+      "description": "Secret Words is a project I developed using React, practicing creating Hooks, connecting to databases, components and different ways of using CSS. A simple app to practice English with a list of the most used words in that language (default list) or create a custom list. As a way to save the data, I used localStorage and thus leave the data saved on the device you accessed."
+    },
+    {
+      "id": "5",
+      "name": "ToDo List",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/TodoList.ac3606e5cc1b143c08e6.jpg",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/ToDoList/",
+      "description": "A project developed in Vanilla JavaScript, HTML and CSS..."
+    }
+  ],
+  "experience": [
+    {
+      "id": "6",
+      "name": "Indra Minsait",
+      "media": "https://portalerp.com/images/2022/07/27/indra-minsait-1jpg.jpeg",
+      "type_media": "img",
+      "URLmedia": "https://www.indracompany.com/pt-br/minsait",
+      "description": "Acting as PO: Responsible for monitoring project stages, from meetings with stakeholders, alignments with development teams and Scrum Master until delivery of what was requested. Gathering requirements for the development of new products together with the IT/development team. Participation in daily sessions with development teams. Monitor the delivery of stakes through JIRA. Whenever necessary, aligning deadlines and deliveries between development teams and stakeholders. Acting as Manager: Management of the Enel project, responsible for developing the team with 5 analysts. Caixa project management - implementation of the Caixa Cartões website in Maracanaú, CE. Sizing, structuring, managing a team of 8 traffic analysts (planning and Control Desk). Dimensioning of human resources, digital media and monitoring web services. Development of tools and routines for monitoring and processing inbound service. Implementation and monitoring of the business sector (sales). Monitoring of goals and results (KPI's), financial control of the contract. Technologies: Power BI | Advanced Excel | SPSS - Statistics | R | Hipath (Siemens) | CMS (Avaya). Agile methodology: Kanban and Scrum"
     }
   ]
 }
