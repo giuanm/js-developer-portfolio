@@ -251,5 +251,76 @@
       "description": "Dublin é a capital e maior cidade da Irlanda. O nome em inglês deriva da palavra irlandesa Dubhlinn, que significa Lago Negro. Tem uma população de 592 mil habitantes na cidade, e sua área metropolitana tem 1 263 219 habitantes. Fundada como um assentamento viquingue, foi o centro do Reino de Dublin e se tornou a principal cidade da Ilha após a invasão dos Normandos. A cidade cresceu de maneira rápida durante o século XVII; se tornou na época a segunda maior cidade do Império Britânico e a quinta maior da Europa. Dublin entrou em um período de estagnação após o Ato de União de 1800, mas continuou o centro econômico da Ilha. Após a Partição da Irlanda em 1922, virou a capital do Estado Livre Irlandês, e mais tarde, da República da Irlanda."
     }
   ]
+},
+"post_professional":{
+  "general": [
+    {
+      "id": "1",
+      "name": "Sobre mim",
+      "media": "https://avatars.githubusercontent.com/u/76171709?v=4",
+      "type_media": "img",
+      "URLmedia": "https://avatars.githubusercontent.com/u/76171709?v=4",
+      "description": "Olá, eu sou o Giuan, um profissional apaixonado por tecnologia e inovação, mais tecnicamente por desenvolvimento front-end e back end. Formação em Analise de Sistemas e Estatística, com percurso de carreira desenvolvido na coordenação de projetos BPO em grandes empresas dos setores de energia (Enel) e bancário (Caixa Econômica Federal). Doze anos de experiência na área de planeamento de sistemas de tráfego/atendimento, responsável pela coordenação, liderança e acompanhamento de projetos, assim como desenvolvimento de novos produtos e melhoria de processos e serviços. Gestão econômica dos projetos, com ampla interface com as áreas de negócios e IT. Relacionamento com múltiplos stakeholders, atuando em função de PO e coordenação de projetos. Experiência como web developer, em projetos independentes de construção de sites, com prática em JavaScript, Python e React. Vivência internacional, em intercâmbio de estudo e trabalho na Irlanda e em Malta."
+    }
+  ],
+    "project":[
+    {
+      "id": "2",
+      "name": "Projetos",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/Project.0a1f6e469103eeab5a73.jpg",
+      "type_media": "img",
+      "URLmedia": "https://www.linkedin.com/in/giuan/",
+      "description": "Nos ultimos anos venho desenvolvendo alguns projetos e publicando em meu GitHub. Logo abaixo vou disponibilizar alguns desses projetos e seus links para que possam ser visualizados juntamente com seus repositorios do GitHub. Caso tenham algum feedback, por favor me enviem por meio de um dos meus contatos disponiveis aqui na página."
+    },
+    {
+      "id": "3",
+      "name": "Pokedex",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/Pokedex.d4ea1bac926250649efa.jpg",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/Pokedex/",
+      "description": "Qual o seu Pokemon favorito? Agora você pode procura-lo e saber suas principais informações aqui nessa página. São mais de 200, caso você não o encontre pode me acionar que verifico onde ele está, tenho certeza que será uma boa cassada 😂"
+    },
+    {
+      "id": "4",
+      "name": "Secret Words",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/SecretWords.54dac19139270040c9ac.jpg",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/Secret_Words/",
+      "description": "Secret Words é um projeto que desenvolvi utilizando React, praticando criação de Hooks, conexão com bancos de dados, componentes e diferentes formas de utilização de CSS. Um aplicativo simples para praticar inglês com uma lista das palavras mais usadas naquele idioma (lista padrão) ou criando uma lista personalizada. Como forma de salvar os dados, utilizei localStorage e assim deixo os dados salvos no dispositivo que for acessado."
+    },
+    {
+      "id": "5",
+      "name": "ToDo List",
+      "media": "https://giuanm.github.io/new_portfolio/static/media/TodoList.ac3606e5cc1b143c08e6.jpg",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/ToDoList/",
+      "description": "Um projeto desenvolvido em JavaScript Vanilla, HTML e CSS..."
+    }
+  ],
+  "experience": [
+    {
+      "id": "6",
+      "name": "Indra Minsait",
+      "media": "https://portalerp.com/images/2022/07/27/indra-minsait-1jpg.jpeg",
+      "type_media": "img",
+      "URLmedia": "https://www.indracompany.com/pt-br/minsait",
+      "description": "Atuando como PO:
+• Responsável pelo acompanhamento das etapas de projetos, desde reuniões com os stakeholders, alinhamentos com as equipes de desenvolvimento e Scrum Master até a entrega do solicitado.
+• Levantamento de requisitos para desenvolvimento de novos produtos junto com a equipe de TI/desenvolvimento.
+• Participação das dailys com os times de desenvolvimento. 
+• Acompanhar a entrega das stakes através do JIRA. Sempre que necessário alinhando prazos e entregas entre as equipes de desenvolvimento e stakeholders
+
+Atuando como Gestor:
+• Gestão do projeto Enel, responsável pelo desenvolvimento da equipe com 5 analistas
+• Gestão do projeto Caixa - implementação do site Caixa Cartões em Maracanaú,-CE.
+• Dimensionamento, estruturação, gestão da equipe de 8 analistas de tráfego (planejamento e Control Desk).
+• Dimensionamento de recursos humanos, meios digitais e acompanhamento serviços web.
+• Desenvolvimento de ferramentas e rotinas para o acompanhamento e tratamento do atendimento receptivo. 
+• Implementação e acompanhamento do setor de negócios (vendas). 
+• Acompanhamento de metas e resultados (KPI's), controlo Financeiro do contrato. 
+• Tecnologias: Power BI | Excel Avançado | SPSS - Statistics | R | Hipath (Siemens) | CMS (Avaya) 
+• Metodologia ágil: Kanban e Scrum"
+    }
+  ]
 }
 }
