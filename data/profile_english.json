@@ -183,23 +183,15 @@
     {
       "id": "7",
       "name": "Faro - Portugal",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Faro.21463797aa1219660998.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Faro.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://drive.google.com/drive/folders/1JYx4OghrYD_T8NlEdE642PQuTT1TOON5?usp=drive_link",
       "description": "Faro is a municipality, the southernmost city and capital of the district of the same name, in the Algarve region of southern Portugal. With an estimated population of 60,995 inhabitants in 2019 (with 39,733 inhabitants in the city proper, making it the biggest city and second most populous municipality in the Algarve (after Loulé) and one of the biggest in Southern Portugal), the municipality covers an area of about 202.57 km2."
     },
     {
-      "id": "8",
-      "name": "London",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/london.5f037e172ecf74436a38.jpg",
-      "type_media": "img",
-      "URLmedia": "https://drive.google.com/drive/folders/1twBaJEcHoDDe7rs9_pHagPqlZnPnahEQ?usp=drive_link",
-      "description": "London is the capital of England and the United Kingdom. For two millennia, it was a large town and its history dates back to its foundation by the Romans, when it was named Londínio. London is an important global city (alongside New York, Tokyo and Paris) and is one of the largest, most important and influential financial centers in the world. Central London is home to more than half of the UK's top 100 companies (the FTSE 100 index) and more than 100 of Europe's top 500. London has a strong influence on politics, finance, education, entertainment, media, fashion, arts and culture in general, which contributes to its global position. It is an important tourist destination for national and foreign visitors. London hosted the 1908, 1948 and 2012 Summer Olympics."
-    },
-    {
       "id": "9",
       "name": "Lisbon",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Lisbon.63a0e06355412ac99995.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Lisbon.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://drive.google.com/drive/folders/1D7EuNiGH8fSLiqvtP-qEN-7JSecQdS19?usp=drive_link",
       "description": "Lisbon is the capital and largest city of Portugal, with an estimated population of 548,703 within its administrative limits in an area of 100 km2. Lisbon is mainland Europe's westernmost capital city (second overall after Reykjavik) and the only one along the Atlantic coast, the others (Reykjavik and Dublin) being on islands. Lisbon is one of the oldest cities in the world and the second-oldest European capital city (after Athens), predating other modern European capitals by centuries. After the fall of the Roman Empire, it was ruled by a series of Germanic tribes from the 5th century, most notably the Visigoths. Later it was captured by the Moors in the 8th century. In 1147 Afonso Henriques conquered the city and in 1255 it became Portugal's capital, replacing Coimbra. It has since been the political, economic, and cultural centre of the country."
@@ -237,7 +229,7 @@
     {
       "id": "2",
       "name": "Projects",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Project.0a1f6e469103eeab5a73.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Project.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://github.com/giuanm",
       "description": "In recent years I have been developing some projects and publishing them on my GitHub. Below I will make some of these projects and their links available so that they can be viewed together with their GitHub repositories. If you have any feedback, please send it to me through one of my contacts available here on the page."
@@ -245,7 +237,7 @@
     {
       "id": "3",
       "name": "Pokedex",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Pokedex.d4ea1bac926250649efa.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Pokedex.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/Pokedex/",
       "description": "What's your favorite Pokemon? Now you can search for it and find out its main information here on this page. There are more than 200, if you can't find it, you can call me and I'll check where it is, I'm sure it will be a good result 😂"
@@ -253,7 +245,7 @@
     {
       "id": "4",
       "name": "Secret Words",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/SecretWords.54dac19139270040c9ac.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/SecretWords.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/Secret_Words/",
       "description": "Secret Words is a project I developed using React, practicing creating Hooks, connecting to databases, components and different ways of using CSS. A simple app to practice English with a list of the most used words in that language (default list) or create a custom list. As a way to save the data, I used localStorage and thus leave the data saved on the device you accessed."
@@ -261,7 +253,7 @@
     {
       "id": "5",
       "name": "ToDo List",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/TodoList.ac3606e5cc1b143c08e6.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/ads/ads3.png?raw=true",
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/ToDoList/",
       "description": "A project developed in Vanilla JavaScript, HTML and CSS..."
