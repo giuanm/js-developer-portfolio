@@ -213,23 +213,15 @@
     {
       "id": "7",
       "name": "Faro - Portugal",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Faro.21463797aa1219660998.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Faro.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://drive.google.com/drive/folders/1JYx4OghrYD_T8NlEdE642PQuTT1TOON5?usp=drive_link",
       "description": "Faro é um município, cidade mais meridional e capital do distrito com o mesmo nome, na região do Algarve, no sul de Portugal. Com uma população estimada em 60.995 habitantes em 2019 (com 39.733 habitantes na própria cidade, o que a torna a maior cidade e o segundo município mais populoso do Algarve (depois de Loulé) e um dos maiores do Sul de Portugal), o município cobre uma área de cerca de 202,57 km2."
     },
     {
-      "id": "8",
-      "name": "Londres",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/london.5f037e172ecf74436a38.jpg",
-      "type_media": "img",
-      "URLmedia": "https://drive.google.com/drive/folders/1twBaJEcHoDDe7rs9_pHagPqlZnPnahEQ?usp=drive_link",
-      "description": "Londres é a capital da Inglaterra e do Reino Unido. Por dois milénios, foi um grande povoado e sua história remonta à sua fundação pelos romanos, quando foi nomeada Londínio. Londres é uma importante cidade global (ao lado de Nova Iorque, Tóquio e Paris) e é um dos maiores, mais importantes e influentes centros financeiros do mundo. O centro de Londres abriga a sede de mais da metade das 100 melhores companhias do Reino Unido (o índice FTSE 100) e mais de 100 das 500 maiores da Europa. Londres possui forte influência na política, finanças, educação, entretenimento, mídia, moda, artes e cultura em geral, o que contribui para a sua posição global. É um importante destino turístico para visitantes nacionais e estrangeiros. Londres sediou os Jogos Olímpicos de Verão de 1908, 1948 e 2012."
-    },
-    {
       "id": "9",
       "name": "Lisboa",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Lisbon.63a0e06355412ac99995.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Lisbon.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://drive.google.com/drive/folders/1D7EuNiGH8fSLiqvtP-qEN-7JSecQdS19?usp=drive_link",
       "description": "Lisboa é a capital e maior cidade de Portugal, com uma população estimada de 548.703 habitantes dentro dos seus limites administrativos numa área de 100 km2. Lisboa é a capital mais ocidental da Europa continental (a segunda no geral, depois de Reykjavik) e a única ao longo da costa atlântica, estando as outras (Reykjavik e Dublin) em ilhas. Lisboa é uma das cidades mais antigas do mundo e a segunda capital europeia mais antiga (depois de Atenas), antecedendo em séculos outras capitais europeias modernas. Após a queda do Império Romano, foi governado por uma série de tribos germânicas a partir do século V, principalmente os visigodos. Mais tarde foi capturada pelos Mouros no século VIII. Em 1147 Afonso Henriques conquistou a cidade e em 1255 tornou-se capital de Portugal, substituindo Coimbra. Desde então, tem sido o centro político, econômico e cultural do país."
@@ -267,7 +259,7 @@
     {
       "id": "2",
       "name": "Projetos",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Project.0a1f6e469103eeab5a73.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Project.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://www.linkedin.com/in/giuan/",
       "description": "Nos ultimos anos venho desenvolvendo alguns projetos e publicando em meu GitHub. Logo abaixo vou disponibilizar alguns desses projetos e seus links para que possam ser visualizados juntamente com seus repositorios do GitHub. Caso tenham algum feedback, por favor me enviem por meio de um dos meus contatos disponiveis aqui na página."
@@ -275,7 +267,7 @@
     {
       "id": "3",
       "name": "Pokedex",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/Pokedex.d4ea1bac926250649efa.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Pokedex.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/Pokedex/",
       "description": "Qual o seu Pokemon favorito? Agora você pode procura-lo e saber suas principais informações aqui nessa página. São mais de 200, caso você não o encontre pode me acionar que verifico onde ele está, tenho certeza que será uma boa cassada 😂"
@@ -283,7 +275,7 @@
     {
       "id": "4",
       "name": "Secret Words",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/SecretWords.54dac19139270040c9ac.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/SecretWords.jpg?raw=true",
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/Secret_Words/",
       "description": "Secret Words é um projeto que desenvolvi utilizando React, praticando criação de Hooks, conexão com bancos de dados, componentes e diferentes formas de utilização de CSS. Um aplicativo simples para praticar inglês com uma lista das palavras mais usadas naquele idioma (lista padrão) ou criando uma lista personalizada. Como forma de salvar os dados, utilizei localStorage e assim deixo os dados salvos no dispositivo que for acessado."
@@ -291,7 +283,7 @@
     {
       "id": "5",
       "name": "ToDo List",
-      "media": "https://giuanm.github.io/new_portfolio/static/media/TodoList.ac3606e5cc1b143c08e6.jpg",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/ads/ads3.png?raw=true",
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/ToDoList/",
       "description": "Um projeto desenvolvido em JavaScript Vanilla, HTML e CSS..."
