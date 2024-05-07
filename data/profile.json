@@ -10,17 +10,11 @@
   "graduation1": "Estatística e Matemática Aplicada - UFC",
   "graduation2": "Análise e Desenvolvimento de Sistemas - UNINASSAU",
   "salutation": "Olá! Apenas para fins de personalização das páginas seguintes, você poderia se identificar?",
-  "aboutme": "Explorador da vida em busca de novas experiências e aprendizados. Apaixonado por dança de salão (tango, zouk, forró e bachata), cozinhar, viajar, fazer novas amizades e dedicado a sempre aprender e conhecer algo novo. Atualmente moro em Malta até Fevereiro/2024. Graduado em Estatística e Matemática Aplica, Análise e Desenvolvimento de Sistemas. 2023 foi o ano que tirei para viver uma nova fase, viajar por muitos lugares, aprender Inglês, conhecer muita gente e poder compartilhar experiencias/cultura. Acredito no poder da positividade e no crescimento pessoal contínuo, adoro colocar em prática o que aprendo com Programação Neuro Linguistica (PNL). Sempre em busca de desafios e oportunidades para aprender e evoluir.",
-  "aboutmeProfessional": "Olá, eu sou o Giuan, um profissional apaixonado por tecnologia e inovação, mais tecnicamente por desenvolvimento front-end e back end. Formação em Analise de Sistemas e Estatística, com percurso de carreira desenvolvido na coordenação de projetos BPO em grandes empresas dos setores de energia (Enel) e bancário (Caixa Econômica Federal). Doze anos de experiência na área de planeamento de sistemas de tráfego/atendimento, responsável pela coordenação, liderança e acompanhamento de projetos, assim como desenvolvimento de novos produtos e melhoria de processos e serviços. Gestão econômica dos projetos, com ampla interface com as áreas de negócios e IT. Relacionamento com múltiplos stakeholders, atuando em função de PO e coordenação de projetos. Experiência como web developer, em projetos independentes de construção de sites, com prática em JavaScript, Python e React. Vivência internacional, em intercâmbio de estudo e trabalho na Irlanda e em Malta.",
-  "desPersonality1": "Os Apoiadores (INFJ) podem ser o tipo de personalidade mais raro de todos, mas certamente não passam despercebidos. Idealistas e firmes em seus princípios, não basta viver uma vida sem grandes desafios, eles querem fazer a diferença com suas ações. Para alguém com a personalidade do Apoiador, o sucesso não significa dinheiro ou status, mas sim buscar realização, ajudar os outros e contribuir para mudanças positivas no mundo.",
-  "desPersonality2": "Apesar de terem grandes objetivos e ambições, os Apoiadores estão longe de ser sonhadores passivos. Pessoas com esse tipo de personalidade dão importância à integridade e só ficam satisfeitas quando fazem o que julgam ser certo. Escrupulosos até a alma, eles vivem com uma compreensão clara dos seus valores e buscam sempre focar no que é essencial, mas não para os outros ou a sociedade, e sim de acordo com a sua própria sabedoria e intuição.",
-  "typePersonality": "Apoiador - INFJ-A / INFJ-T",
   "nameCamp": "Nome",
   "company": "Empresa",
   "professional": "Profissional",
   "experienceCamp": "Experiência",
   "project": "Projetos",
-  "projectDesc": "Nos ultimos anos venho desenvolvendo alguns projetos e publicando em meu GitHub. Logo abaixo vou disponibilizar alguns desses projetos e seus links para que possam ser visualizados juntamente com seus repositorios do GitHub. Caso tenham algum feedback, por favor me enviem por meio de um dos meus contatos disponiveis aqui na página.",
   "personal": "Pessoal",
   "aboutme_camp": "Sobre mim",
   "personality": "Personalidade",
@@ -254,6 +248,38 @@
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/Secret_Words/",
       "description": "Secret Words é um projeto que desenvolvi utilizando React, praticando criação de Hooks, conexão com bancos de dados, componentes e diferentes formas de utilização de CSS. Um aplicativo simples para praticar inglês com uma lista das palavras mais usadas naquele idioma (lista padrão) ou criando uma lista personalizada. Como forma de salvar os dados, utilizei localStorage e assim deixo os dados salvos no dispositivo que for acessado."
+    },
+    {
+      "id": "6",
+      "name": "Club do Livro",
+      "media": "https://www.youtube.com/embed/4F3nTWX5lrI?si=V5xlkW-M8GpqlzJP",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Clube_do_livro2",
+      "description": "Book Club foi desenvolvido em NodeJS usando Express, Handlebars e MySQL. Neste projeto é possível cadastrar usuários com alguns tipos de validações, como validações de senha. Após o cadastro do usuário, será possível fazer login na plataforma e comentar um livro, adicionando o título do livro, o autor e um breve comentário sobre aquele livro. O CRUD foi criado para esses comentários. Na aba de visualização de comentários é possível ordenar por data de criação e pesquisar por título dos livros comentados."
+    },
+    {
+      "id": "7",
+      "name": "Giuan News",
+      "media": "https://www.youtube.com/embed/0KmxZh8C57M?si=Kp46-hH2pwFN_BI6",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Giuan_News",
+      "description": "Este projeto é uma página de notícias que consome uma API pública. Todos os códigos foram criados através do Gemini. As solicitações foram feitas no prompt do Gemini informando uma API de notícias para serem consumidas seguindo algumas informações passadas em um formulário de busca por assunto e data."
+    },
+    {
+      "id": "8",
+      "name": "Sistema bancário",
+      "media": "https://www.youtube.com/embed/-pg7B8xWWrI?si=HAdfLd41T7Z27uC2",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Sistema_Bancario",
+      "description": "Neste projeto construí um sistema bancário com algumas operações básicas, por exemplo, sacar, depositar e emitir extrato usando Python. Para esse sistema adicionei o validador de CPF ao tentar cadastrar um usuário, transferência PIX limitada apenas pelo valor do saldo da conta."
+    },
+    {
+      "id": "9",
+      "name": "Tela de cadastro da DIO",
+      "media": "https://www.youtube.com/embed/s0P4Op29Pck?si=eEzMg2JtElU-Gs2L",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Tela_cadastro-DIO",
+      "description": "Este projeto consiste na criação de uma página de cadastro, login e feed inicial para a plataforma DIO utilizando React com TypeScrip. Após cadastrar um usuário, será possível efetuar login e acessar o feed do usuário."
     },
     {
       "id": "5",
