@@ -16,7 +16,6 @@
   "personal": "Personal",
   "aboutme_camp": "About me",
   "project": "Projects",
-  "projectDesc": "In recent years I have been developing some projects and publishing them on my GitHub. Below I will make some of these projects and their links available so that they can be viewed together with their GitHub repositories. If you have any feedback, please send it to me through one of my contacts available here on the page.",
   "experienceCamp": "Experience",
   "personality": "Personality",
   "skills": {
@@ -249,6 +248,38 @@
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/Secret_Words/",
       "description": "Secret Words is a project I developed using React, practicing creating Hooks, connecting to databases, components and different ways of using CSS. A simple app to practice English with a list of the most used words in that language (default list) or create a custom list. As a way to save the data, I used localStorage and thus leave the data saved on the device you accessed."
+    },
+    {
+      "id": "6",
+      "name": "Book Club",
+      "media": "https://www.youtube.com/embed/4F3nTWX5lrI?si=V5xlkW-M8GpqlzJP",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Clube_do_livro2",
+      "description": "Book Club was developed in NodeJS using Express, Handlebars and MySQL. In this project it is possible to register users with some types of validations, such as password validations. After user registration, it will be possible to log in to the platform and comment on a book, adding the title of the book, the author and a brief comment about that book. CRUD was created for these comments. In the comments viewing tab, it is possible to sort by creation date and search by title of commented books."
+    },
+    {
+      "id": "7",
+      "name": "Giuan News",
+      "media": "https://www.youtube.com/embed/0KmxZh8C57M?si=Kp46-hH2pwFN_BI6",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Giuan_News",
+      "description": "This project is a news page consuming a public API. All codes were created through Gemini. Requests were made at the Gemini prompt informing a news API to be consumed following some information passed through a search form by subject and date."
+    },
+    {
+      "id": "8",
+      "name": "Bank system",
+      "media": "https://www.youtube.com/embed/-pg7B8xWWrI?si=HAdfLd41T7Z27uC2",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Sistema_Bancario",
+      "description": "In this project I built a banking system with some basic operations, for example, withdrawing, depositing and issuing a statement using Python. For this system I added the CPF validator when trying to register a user, PIX transfer limited only by the value of the account balance."
+    },
+    {
+      "id": "9",
+      "name": "Tela de cadastro da DIO",
+      "media": "https://www.youtube.com/embed/s0P4Op29Pck?si=eEzMg2JtElU-Gs2L",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Tela_cadastro-DIO",
+      "description": "This project consists of creating a registration page, login and an initial feed for the DIO platform using React with TypeScrip. After registering a user, it will be possible to log in and access the user's feed."
     },
     {
       "id": "5",
