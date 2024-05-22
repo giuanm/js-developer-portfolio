@@ -288,6 +288,14 @@
       "type_media": "img",
       "URLmedia": "https://giuanm.github.io/ToDoList/",
       "description": "Um projeto desenvolvido em JavaScript Vanilla, HTML e CSS..."
+    },
+    {
+      "id": "10",
+      "name": "MentorIA",
+      "media": "https://www.youtube.com/embed/Jw5nNsKw2fg?si=Cm4L50QC6VyXmleH",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/mentoria",
+      "description": "Este projeto foi desenvolvido quase inteiramente usando Gemini para construir o código. É feito com React, Python e MongoDB como banco de dados. As consultas são feitas através de uma API Gemini."
     }
   ],
   "experience": [
